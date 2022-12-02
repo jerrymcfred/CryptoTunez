@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CryptoKet - NFT MarketPlace
 
 ![App Screenshot](assets/nft-marketplace.jpg)
@@ -58,3 +59,9 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+=======
+# CryptoTunez
+Polygon Hackathon project- CryptoTunez is a music-nft website built using Next.js, Solidity, Polygon, TailwindCSS
+
+HOW TO RUN FILE
+>>>>>>> 608ef92d0e68aec29045fb7a6f09db6720bae211
