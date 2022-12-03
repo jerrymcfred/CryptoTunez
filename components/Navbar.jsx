@@ -5,6 +5,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 import images from '../assets/index';
+// eslint-disable-next-line import/no-cycle
 import { Button } from './index';
 import { NFTContext } from '../context/NFTContext';
 
@@ -99,7 +100,7 @@ const Navbar = () => {
         <Link href="/">
           <div className="flexCenter cursor-pointer md:hidden">
             <Image src={images.logo02} alt="logo" width={32} height={32} />
-            <p className="dark:text-white text-nft-black-1 font-semibold text-lg ml-1">CryptoKet</p>
+            <p className="dark:text-white text-nft-black-1 font-semibold text-lg ml-1">CryptoTunez</p>
           </div>
         </Link>
         <Link href="/">
