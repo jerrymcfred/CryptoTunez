@@ -18,7 +18,7 @@ const client = ipfsClient.create({
   port: 5001,
   protocol: 'https',
   headers: {
-    authorization: auth,
+    authorization: Basic <base64(`${projectId}`:`${projectSecret}`)>,
   },
 });
 
