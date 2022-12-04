@@ -113,12 +113,18 @@ NEXT_PUBLIC_IPFS_API_KEY_SECRET =
 NEXT_PUBLIC_IPFS_API_HOST = "ipfs.infura.io" 
 NEXT_PUBLIC_IPFS_SUBDOMAIN_NAME = 
 ```
-4. Deploy Smart contract and make sure you update the MarketAddress in constants.js file with the new address the smart contract was deployed to
+4. Start the hardhat Node
+
+```shell
+npx hardhart node
+```
+
+5. In a seperate Terminal, Deploy Smart contract and make sure you update the MarketAddress in constants.js file with the new address the smart contract was deployed to
 
 ```shell
 npx hardhat run scripts/deploy.js --network mumbai
 ```
-5. Run application
+6. Run application
 
 ```shell
 npm run dev or yarn run dev
@@ -131,13 +137,17 @@ How it works;
 - After some seconds the homepage automatically refreshes and your NfT is minted and listed on WavyHills marketplace where people can purchase it.
 - Once minted you will get to see all NFTs you have Minted on the Listed NfTs page.
 
-### Not Working(You cant Mint/create NFT?)
-- Make sure you have Enough Test Matic Funds(the contracts are deployed on POLYGON MUMBAI NETWORK). 
-GET TEST TOKENS HERE https://faucet.polygon.technology/
-
 
 ### Explanation of each page
-1. Explore NFTs is the homepage where you get to see all NFTs listed by different sellers on WavyHills, click on each NFT to see details of the NFT.
-2. Listed NFTs is where you see all NFTs that you as a creator listed on the Marketplace.
-3. My NFTs is where you see all NFTs you have purchased on the Marketplace.
+1. **Explore NFTs** is the homepage where you get to see all NFTs listed by different sellers on WavyHills, click on each NFT to see details of the NFT.
+2. **Listed NFTs** is where you see all NFTs that you as a creator listed on the Marketplace.
+3. **My NFTs** is where you see all NFTs you have purchased on the Marketplace.
 
+
+
+### Not Working(You cant Mint/create NFT?)
+- Make sure you have Enough Test Matic Funds(the contracts are deployed on POLYGON MUMBAI NETWORK). 
+
+GET TEST TOKENS HERE https://faucet.polygon.technology/
+
+- Make sure you're connected to the POLYGON MUMBAI NETWORK on metamask.
