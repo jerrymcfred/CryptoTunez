@@ -90,7 +90,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-# Installation
+# Installation and running the application locally
 
 Below are instructions to get started
 
@@ -117,4 +117,9 @@ NEXT_PUBLIC_IPFS_PROJECT_ID =
 NEXT_PUBLIC_IPFS_API_KEY_SECRET = 
 NEXT_PUBLIC_IPFS_API_HOST = "ipfs.infura.io" 
 NEXT_PUBLIC_IPFS_SUBDOMAIN_NAME = 
+```
+4. Deploy Smart contract and make sure you update the MarketAddress in constants.js file with the new address the smart contract was deployed to
 
+```shell
+npx hardhat run scripts/deploy.js --network mumbai
+```
