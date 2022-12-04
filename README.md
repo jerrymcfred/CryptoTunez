@@ -106,5 +106,15 @@ git clone https://github.com/jerrymcfred/WavyHills.git
 ```shell
 npm install or yarn install
 ```
+3. Add environment variables, also you will require dedicated subdomain for IPFS from infura
 
+```shell
+API_URL= "https://polygon-mumbai.g.alchemy.com/v2/[API-KEY]"
+PRIVATE_KEY = 
+NEXT_PUBLIC_ALCHEMY_API_KEY = 
+
+NEXT_PUBLIC_IPFS_PROJECT_ID = 
+NEXT_PUBLIC_IPFS_API_KEY_SECRET = 
+NEXT_PUBLIC_IPFS_API_HOST = "ipfs.infura.io" 
+NEXT_PUBLIC_IPFS_SUBDOMAIN_NAME = 
 
