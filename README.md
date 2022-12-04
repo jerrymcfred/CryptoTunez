@@ -1,13 +1,12 @@
 <<<<<<< HEAD
-# CryptoTunez - NFT MarketPlace
-Polygon Hackathon project- CryptoTunez is a music-nft website built using Next.js, Solidity, Polygon, TailwindCSS
+# WavyHills - NFT MarketPlace
+Polygon Hackathon project- CryptoTunez is an NFT Marketplace for creators of Music, fashion NFTs built using Next.js, Solidity, Polygon, TailwindCSS
 
 
-![App Screenshot](assets/nft-marketplace.jpg)
 
-CryptoTunez is made using the immense power of Solidity and Next.js. This project combines futuristic elements of Web3 blockchain development and the popular culture wave of non-fungible tokens (NFT).
+WavyHills is made using the immense power of Solidity and Next.js. This project combines futuristic elements of Web3 blockchain development and the popular culture wave of non-fungible tokens (NFT).
 
-This application includes creation, buying, selling and reselling of music NFTs and user authentication through metamask wallet. Its theme can be switched to both dark and light mode. 
+This application includes creation, buying, selling and reselling of music, fashion NFTs and user authentication through metamask wallet. Its theme can be switched to both dark and light mode. 
 
 Context api is used for state management and tailwind css is used for styling the application. Solidity is used to write smart contract and hardhat is used to test the smart contract.
 
@@ -64,4 +63,3 @@ npx hardhat help
 =======
 
 HOW TO RUN FILE
->>>>>>> 608ef92d0e68aec29045fb7a6f09db6720bae211
