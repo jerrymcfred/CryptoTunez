@@ -42,6 +42,11 @@ Context api is used for state management and tailwind css is used for styling th
 - src directory: this is where we'll develop our client-side application. test directory: this is where we'll write our tests for our smart contracts.
 - Components directory: this is where our non pages modular components live.
 - Pages directory: this is where all pages reside.
+- Styles directory
+- Test directory: this is where all tests for smart contracts are written.
+- Context directory
+
+
 
 
 
