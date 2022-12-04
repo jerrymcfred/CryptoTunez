@@ -123,3 +123,8 @@ NEXT_PUBLIC_IPFS_SUBDOMAIN_NAME =
 ```shell
 npx hardhat run scripts/deploy.js --network mumbai
 ```
+5. Run application
+
+```shell
+npm run dev or yarn run dev
+```
