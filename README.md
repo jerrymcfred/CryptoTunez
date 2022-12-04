@@ -1,6 +1,7 @@
 
 # WavyHills - NFT MarketPlace
-Polygon Hackathon project- CryptoTunez is an NFT Marketplace for creators of Music, fashion NFTs built using Next.js, Solidity, Polygon, TailwindCSS
+POLYGON HACKATHON PROJECT- BY TEAM JEREMIAH(SOLO BUILD) 
+WavyHills is an NFT Marketplace for creators of Music, fashion NFTs built using Next.js, Solidity, Polygon, TailwindCSS
 
 
 
