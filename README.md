@@ -144,7 +144,7 @@ How it works;
 ### Explanation of each page
 1. **Explore NFTs** is the homepage where you get to see all NFTs listed by different sellers on WavyHills, click on each NFT to see details of the NFT.
 2. **Listed NFTs** is where you see all NFTs that you as a creator listed on the Marketplace.
-3. **My NFTs** is where you see all NFTs you have purchased on the Marketplace..
+3. **My NFTs** is where you see all NFTs you have purchased on the Marketplace.
 
 
 
