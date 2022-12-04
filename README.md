@@ -1,5 +1,5 @@
 
-# POLYGON HACKATHON PROJECT
+# POLYGON HACKATHON PROJECT 2022
 ## TEAM JEREMIAH(SOLO BUILD)
 
 
@@ -34,8 +34,9 @@ Context api is used for state management and tailwind css is used for styling th
 
 #### FEATURES/FUNCTIONALITIES;
 - LIGHT/DARK MODE
+- Seamless Fetching of data from IPFS
 
-
+#### Folder Structure
 
 
 
