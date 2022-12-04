@@ -84,11 +84,6 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 # Installation and running the application locally
 
@@ -128,3 +123,17 @@ npx hardhat run scripts/deploy.js --network mumbai
 ```shell
 npm run dev or yarn run dev
 ```
+### How the website works
+How it works;
+- As a creator, to list your NFT, click on the CREATE button which shows automatically after you have connected your wallet.
+- When creating your NfT, upload an image and wait for some seconds(Max-30 seconds) for it to be visible and be sure that it has been uploaded then proceed to fill in the NfT Description and price.
+- Click on create and wait a little and you will prompted by METAMASK to make a payment in MATIC(Make sure you are connected on the POLYGON MUMBAI NETWORK) if everything is correct click confirm .
+- After some seconds the homepage automatically refreshes and your NfT is minted and listed on WavyHills marketplace where people can purchase it.
+- Once minted you will get to see all NFTs you have Minted on the Listed NfTs page.
+
+
+### Explanation of each page
+1. Explore NFTs is the homepage where you get to see all NFTs listed by different sellers on WavyHills, click on each NFT to see details of the NFT.
+2. Listed NFTs is where you see all NFTs that you as a creator listed on the Marketplace.
+3. My NFTs is where you see all NFTs you have purchased on the Marketplace.
+
