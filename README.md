@@ -27,7 +27,7 @@ Context api is used for state management and tailwind css is used for styling th
 - POLYGON NETWORK(MUMBAI TESTNET)
 - METAMASK
 - REACT CONTEXT API(state management)
-- other react libraries etc
+- other react libraries(react-drop-zone, web3modal) etc
 
 
 
@@ -35,6 +35,9 @@ Context api is used for state management and tailwind css is used for styling th
 #### FEATURES/FUNCTIONALITIES;
 - LIGHT/DARK MODE
 - Seamless Fetching of data from IPFS
+- Pixel perfect design
+- File Uploads
+- Dynamic Routing etc
 
 #### Folder Structure
 - contracts directory: this is where all smart contacts live. We already have a Migration contract that handles our migrations to the blockchain.
