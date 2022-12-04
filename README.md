@@ -27,7 +27,7 @@ Context api is used for state management and tailwind css is used for styling th
 - POLYGON NETWORK(MUMBAI TESTNET)
 - METAMASK
 - REACT CONTEXT API(state management)
-- other react libraries(react-drop-zone, web3modal) etc
+- other react libraries(react-drop-zone, web3modal) etc.
 
 
 
