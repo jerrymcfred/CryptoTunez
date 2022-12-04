@@ -100,7 +100,7 @@ const Navbar = () => {
         <Link href="/">
           <div className="flexCenter cursor-pointer md:hidden">
             <Image src={images.logo02} alt="logo" width={32} height={32} />
-            <p className="dark:text-white text-nft-black-1 font-semibold text-lg ml-1">CryptoTunez</p>
+            <p className="dark:text-white text-nft-black-1 font-semibold text-lg ml-1">Wavyhills</p>
           </div>
         </Link>
         <Link href="/">
