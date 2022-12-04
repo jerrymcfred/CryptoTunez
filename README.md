@@ -101,5 +101,10 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 ```shell
 git clone https://github.com/jerrymcfred/WavyHills.git
 ```
+2. Install Packages
+
+```shell
+npm install or yarn install
+```
 
 
