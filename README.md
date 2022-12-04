@@ -37,6 +37,10 @@ Context api is used for state management and tailwind css is used for styling th
 - Seamless Fetching of data from IPFS
 
 #### Folder Structure
+- contracts directory: this is where all smart contacts live. We already have a Migration contract that handles our migrations to the blockchain.
+- node_modules directory: this is the home of all of our Node dependencies.
+
+
 
 
 
