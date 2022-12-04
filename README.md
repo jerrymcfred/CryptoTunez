@@ -131,6 +131,10 @@ How it works;
 - After some seconds the homepage automatically refreshes and your NfT is minted and listed on WavyHills marketplace where people can purchase it.
 - Once minted you will get to see all NFTs you have Minted on the Listed NfTs page.
 
+### Not Working(You cant Mint/create NFT?)
+- Make sure you have Enough Test Matic Funds(the contracts are deployed on POLYGON MUMBAI NETWORK). 
+GET TEST TOKENS HERE https://faucet.polygon.technology/
+
 
 ### Explanation of each page
 1. Explore NFTs is the homepage where you get to see all NFTs listed by different sellers on WavyHills, click on each NFT to see details of the NFT.
