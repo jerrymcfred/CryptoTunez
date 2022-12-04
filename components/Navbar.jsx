@@ -5,8 +5,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 import images from '../assets/index';
-// eslint-disable-next-line import/no-cycle
-import { Button } from './index';
+import Button from './Button';
 import { NFTContext } from '../context/NFTContext';
 
 const MenuItems = ({ isMobile, active, setActive, setIsOpen }) => {
