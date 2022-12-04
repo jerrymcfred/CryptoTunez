@@ -1,21 +1,23 @@
 
-# WavyHills - NFT MarketPlace
-POLYGON HACKATHON PROJECT- BY TEAM JEREMIAH(SOLO BUILD)
+# POLYGON HACKATHON PROJECT
+## TEAM JEREMIAH(SOLO BUILD)
 
 
-WavyHills is an NFT Marketplace for creators of Music, fashion NFTs built using Next.js, Solidity, Polygon, TailwindCSS.
+#### PROJECT DESCRIPTION
+WavyHills is an NFT Marketplace for creators of fashion NFTs built using Next.js, Solidity, Polygon, TailwindCSS.
+It proposes a way for innovative brands, creators, fashion photographers, Artists, Stylists, celebrities to create, buy and sell Digital fashion, editorial photos, fashion styles, fashion photographs as NFTs.
 
 
 
 WavyHills is made using the immense power of Solidity and Next.js. This project combines futuristic elements of Web3 blockchain development and the popular culture wave of non-fungible tokens (NFT).
 
-This application includes creation, buying, selling and reselling of music, fashion NFTs and user authentication through metamask wallet. Its theme can be switched to both dark and light mode. 
+This application includes creation, buying, selling and reselling of fashion NFTs and user authentication through metamask wallet. Its theme can be switched to both dark and light mode. 
 
 Context api is used for state management and tailwind css is used for styling the application. Solidity is used to write smart contract and hardhat is used to test the smart contract.
 
 
 
-### SUMMARY OF TECH STACK USED IN THIS BUILD;
+#### SUMMARY OF TECH STACK USED IN THIS BUILD;
 - REACT.JS
 - NEXT.JS
 - SOLIDITY
@@ -30,7 +32,7 @@ Context api is used for state management and tailwind css is used for styling th
 
 
 
-### FEATURES/FUNCTIONALITIES;
+#### FEATURES/FUNCTIONALITIES;
 - LIGHT/DARK MODE
 
 
