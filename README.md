@@ -27,7 +27,7 @@ How it works;
 - Once minted you will get to see all NFTs you have Minted on the Listed NfTs page.
 
 
-Note: When you Click on **CREATE** and nothing happens after 30 seconds it means you have **Insufficient Funds** in your METAMASK WALLET and you need to get more Test matic.
+Note: When you Click on **CREATE** and nothing happens (Metamask doesnt pop up) after 30 seconds it means you have **Insufficient Funds** in your METAMASK WALLET and you need to get more Test matic.
 
 
 
