@@ -3,7 +3,7 @@
 ## TEAM JEREMIAH (SOLO BUILD)
 
 
-#### PROJECT DESCRIPTION
+### PROJECT DESCRIPTION
 WavyHills is an NFT Marketplace for creators of fashion NFTs built using Next.js, Solidity, Polygon, TailwindCSS.
 It proposes a way for innovative brands, creators, fashion photographers, Artists, Stylists, celebrities to create, buy and sell Digital fashion, editorial photos, fashion styles, fashion photographs as NFTs.
 
@@ -15,7 +15,10 @@ This application includes creation, buying, selling and reselling of fashion NFT
 
 Context api is used for state management and tailwind css is used for styling the application. Solidity is used to write smart contract and hardhat is used to test the smart contract.
 
-### How the website works
+
+
+
+#### How the website works
 How it works;
 - As a creator, to list your NFT, click on the CREATE button which shows automatically after you have connected your wallet.
 - When creating your NfT, upload an image and wait for some seconds(Max-30 seconds) for it to be visible and be sure that it has been uploaded then proceed to fill in the NfT Description and price.
@@ -24,14 +27,18 @@ How it works;
 - Once minted you will get to see all NFTs you have Minted on the Listed NfTs page.
 
 
-### Explanation of each page
+
+
+#### Explanation of each page
 1. **Explore NFTs** is the homepage where you get to see all NFTs listed by different sellers on WavyHills, click on each NFT to see details of the NFT.
 2. **Listed NFTs** is the page where you see all NFTs that you as a creator listed on the Marketplace.
 3. **My NFTs** is where you see all NFTs you have purchased on the Marketplace.
 
 
 
-### Not Working(You cant Mint/create NFT?)
+
+
+#### Not Working(You cant Mint/create NFT?)
 - Make sure you have Enough Test Matic Funds(the contracts are deployed on POLYGON MUMBAI NETWORK). 
 
 GET TEST TOKENS HERE https://faucet.polygon.technology/
@@ -40,7 +47,7 @@ GET TEST TOKENS HERE https://faucet.polygon.technology/
 
 
 
-#### SUMMARY OF TECH STACK USED IN THIS BUILD;
+### SUMMARY OF TECH STACK USED IN THIS BUILD;
 - REACT.JS
 - NEXT.JS
 - SOLIDITY
@@ -55,7 +62,7 @@ GET TEST TOKENS HERE https://faucet.polygon.technology/
 
 
 
-#### FEATURES/FUNCTIONALITIES;
+### FEATURES/FUNCTIONALITIES;
 - LIGHT/DARK MODE
 - Seamless Fetching of data from IPFS
 - Pixel perfect design
@@ -63,7 +70,10 @@ GET TEST TOKENS HERE https://faucet.polygon.technology/
 - Search/Filter functionalities
 - Dynamic Routing etc
 
-#### Folder Structure
+
+
+
+### Folder Structure
 - contracts directory: this is where all smart contacts live. We already have a Migration contract that handles our migrations to the blockchain.
 - node_modules directory: this is the home of all of our Node dependencies.
 - src directory: this is where we'll develop our client-side application. test directory: this is where we'll write our tests for our smart contracts.
