@@ -5,7 +5,7 @@
 
 ### PROJECT DESCRIPTION
 WavyHills is an NFT Marketplace for creators of fashion NFTs built using Next.js, Solidity, Polygon, TailwindCSS.
-It proposes a way for innovative brands, creators, fashion photographers, Artists, Stylists, celebrities to create, buy and sell Digital fashion, editorial photos, fashion styles, fashion photographs as NFTs.
+It proposes a way for innovative brands, creators, fashion photographers, Artists, Stylists, celebrities to create, buy and sell Digital clothing (for metaverse), Digital fashion, editorial photos, fashion styles, fashion photographs as NFTs.
 
 
 
