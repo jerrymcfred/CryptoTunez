@@ -25,6 +25,8 @@ How it works;
 - Click on create and wait a little and you will prompted by METAMASK to make a payment in MATIC(Make sure you are connected on the POLYGON MUMBAI NETWORK) if everything is correct click confirm .
 - After some seconds the homepage automatically refreshes and your NfT is minted and listed on WavyHills marketplace where people can purchase it.
 - Once minted you will get to see all NFTs you have Minted on the Listed NfTs page.
+Note: When you Click on **CREATE** and nothing happens after 30 seconds it means you have **Insufficient Funds** in your METAMASK WALLET and you need to get more Test matic.
+
 
 
 
@@ -38,8 +40,8 @@ How it works;
 
 
 
-#### Not Working(You cant Mint/create NFT?)
-- Make sure you have Enough Test Matic Funds(the contracts are deployed on POLYGON MUMBAI NETWORK). 
+#### Not Working(You cant Mint/create NFT?)- Here are Possible Reasons
+- Make sure you have Enough Test Matic Funds(the contracts are deployed on POLYGON MUMBAI NETWORK) for you to be able to create NFTs on WavyHills. 
 
 GET TEST TOKENS HERE https://faucet.polygon.technology/
 
