@@ -15,6 +15,29 @@ This application includes creation, buying, selling and reselling of fashion NFT
 
 Context api is used for state management and tailwind css is used for styling the application. Solidity is used to write smart contract and hardhat is used to test the smart contract.
 
+### How the website works
+How it works;
+- As a creator, to list your NFT, click on the CREATE button which shows automatically after you have connected your wallet.
+- When creating your NfT, upload an image and wait for some seconds(Max-30 seconds) for it to be visible and be sure that it has been uploaded then proceed to fill in the NfT Description and price.
+- Click on create and wait a little and you will prompted by METAMASK to make a payment in MATIC(Make sure you are connected on the POLYGON MUMBAI NETWORK) if everything is correct click confirm .
+- After some seconds the homepage automatically refreshes and your NfT is minted and listed on WavyHills marketplace where people can purchase it.
+- Once minted you will get to see all NFTs you have Minted on the Listed NfTs page.
+
+
+### Explanation of each page
+1. **Explore NFTs** is the homepage where you get to see all NFTs listed by different sellers on WavyHills, click on each NFT to see details of the NFT.
+2. **Listed NFTs** is the page where you see all NFTs that you as a creator listed on the Marketplace.
+3. **My NFTs** is where you see all NFTs you have purchased on the Marketplace.
+
+
+
+### Not Working(You cant Mint/create NFT?)
+- Make sure you have Enough Test Matic Funds(the contracts are deployed on POLYGON MUMBAI NETWORK). 
+
+GET TEST TOKENS HERE https://faucet.polygon.technology/
+
+- Make sure you're connected to the POLYGON MUMBAI NETWORK on metamask.
+
 
 
 #### SUMMARY OF TECH STACK USED IN THIS BUILD;
@@ -37,6 +60,7 @@ Context api is used for state management and tailwind css is used for styling th
 - Seamless Fetching of data from IPFS
 - Pixel perfect design
 - File Uploads
+- Search/Filter functionalities
 - Dynamic Routing etc
 
 #### Folder Structure
@@ -132,25 +156,3 @@ npx hardhat run scripts/deploy.js --network mumbai
 ```shell
 npm run dev or yarn run dev
 ```
-### How the website works
-How it works;
-- As a creator, to list your NFT, click on the CREATE button which shows automatically after you have connected your wallet.
-- When creating your NfT, upload an image and wait for some seconds(Max-30 seconds) for it to be visible and be sure that it has been uploaded then proceed to fill in the NfT Description and price.
-- Click on create and wait a little and you will prompted by METAMASK to make a payment in MATIC(Make sure you are connected on the POLYGON MUMBAI NETWORK) if everything is correct click confirm .
-- After some seconds the homepage automatically refreshes and your NfT is minted and listed on WavyHills marketplace where people can purchase it.
-- Once minted you will get to see all NFTs you have Minted on the Listed NfTs page.
-
-
-### Explanation of each page
-1. **Explore NFTs** is the homepage where you get to see all NFTs listed by different sellers on WavyHills, click on each NFT to see details of the NFT.
-2. **Listed NFTs** is where you see all NFTs that you as a creator listed on the Marketplace.
-3. **My NFTs** is where you see all NFTs you have purchased on the Marketplace.
-
-
-
-### Not Working(You cant Mint/create NFT?)
-- Make sure you have Enough Test Matic Funds(the contracts are deployed on POLYGON MUMBAI NETWORK). 
-
-GET TEST TOKENS HERE https://faucet.polygon.technology/
-
-- Make sure you're connected to the POLYGON MUMBAI NETWORK on metamask.
