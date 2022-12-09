@@ -4,7 +4,7 @@
 
 
 ### PROJECT DESCRIPTION
-WavyHills is an NFT Marketplace for creators of fashion NFTs built using Next.js, Solidity, Polygon, TailwindCSS.
+WavyHills is a Fully Functional and fully usable NFT Marketplace for creators of fashion NFTs built using Next.js, Solidity, Polygon, TailwindCSS.
 It proposes a way for innovative brands, creators, fashion photographers, Artists, Stylists, celebrities to create, buy and sell Digital clothing (for metaverse), Digital fashion, editorial photos, fashion styles, fashion photographs as NFTs.
 
 
@@ -33,8 +33,7 @@ As a Buyer;
 - Commence transfer of MATIC TOKEN AND NFT ownership becomes yours.
 
 Note: When you Click on **CREATE** and nothing happens (Metamask doesnt pop up) after 30 seconds it means you have **Insufficient Funds** in your METAMASK WALLET and you need to get more Test matic.
-
-
+###### I Suggest trying out the whole fuctionalities of WavyHills and feel a seamless flow and mind blowing User Experience. Try to create /mint NFTs, Buy NFTs, sell etc to Experience the full power of this Fashion NFT Marketplace.
 
 
 
