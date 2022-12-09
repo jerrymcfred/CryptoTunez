@@ -27,8 +27,9 @@ How it works;
 - Once minted you will get to see all NFTs you have Minted on the Listed NfTs page.
 
 As a Buyer;
-- Click on the NFT you nwant to purchase and the full NFT Details page where you see details like description and others.
+- Click on the NFT you want to purchase and the full NFT Details page where you see details like description and others.
 - To buy, click on buy button and a Modal pops up.
+- Inorder for Metamask to pop up and prompt you to make payment in MATIC, you must have enough MATIC TOKENS. if you click on buy button and Nothing happens it means you dont have Enough MATIC tokens. (Go to https://faucet.polygon.technology/ to get free TEST MATIC TOKENS)
 - Commence transfer of MATIC TOKEN AND NFT ownership becomes yours.
 
 Note: When you Click on **CREATE** and nothing happens (Metamask doesnt pop up) after 30 seconds it means you have **Insufficient Funds** in your METAMASK WALLET and you need to get more Test matic.
