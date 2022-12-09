@@ -29,7 +29,7 @@ How it works;
 As a Buyer;
 - Click on the NFT you want to purchase and the full NFT Details page where you see details like description and others.
 - To buy, click on buy button and a Modal pops up.
-- Inorder for Metamask to pop up and prompt you to make payment in MATIC, you must have enough MATIC TOKENS. if you click on buy button and Nothing happens it means you dont have Enough MATIC tokens. (Go to https://faucet.polygon.technology/ to get free TEST MATIC TOKENS)
+- Inorder for Metamask to pop up and prompt you to make payment in MATIC, you must have enough MATIC TOKENS as the listed price for the NFT. if you click on buy button and Nothing happens it means you dont have Enough MATIC tokens. (Go to https://faucet.polygon.technology/ to get free TEST MATIC TOKENS)
 - Commence transfer of MATIC TOKEN AND NFT ownership becomes yours.
 
 Note: When you Click on **CREATE** and nothing happens (Metamask doesnt pop up) after 30 seconds it means you have **Insufficient Funds** in your METAMASK WALLET and you need to get more Test matic.
@@ -177,3 +177,9 @@ npx hardhat run scripts/deploy.js --network mumbai
 ```shell
 npm run dev or yarn run dev
 ```
+
+
+IMAGES;
+1. When Payment is Succesful.(When Buying a listed nFTs, after buying, it reflects in the "my nfts" PAGE)
+![wavy-hills vercel app_nft-details_price=0 097 tokenId=7 seller=0x2487AdEAa85d813786A876a482A88988DD4A193F owner=0x281921AA823325D606377edE0b5837b7F967FD93 image=https%3A%2F%2Fmy-music-nft infura-ipfs io%2Fipfs%2FQmShXRHM8VeXdmMBmkyvL8SeJKkp](https://user-images.githubusercontent.com/64787288/206811585-ce40511d-770d-475c-b73f-446f1cf89c9d.png)
+
