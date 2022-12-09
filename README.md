@@ -26,6 +26,10 @@ How it works;
 - After some seconds the homepage automatically refreshes and your NfT is minted and listed on WavyHills marketplace where people can purchase it.
 - Once minted you will get to see all NFTs you have Minted on the Listed NfTs page.
 
+As a Buyer;
+- Click on the NFT you nwant to purchase and the full NFT Details page where you see details like description and others.
+- To buy, click on buy button and a Modal pops up.
+- Commence transfer of MATIC TOKEN AND NFT ownership becomes yours.
 
 Note: When you Click on **CREATE** and nothing happens (Metamask doesnt pop up) after 30 seconds it means you have **Insufficient Funds** in your METAMASK WALLET and you need to get more Test matic.
 
@@ -71,6 +75,7 @@ GET TEST TOKENS HERE https://faucet.polygon.technology/
 - Seamless Fetching of data from IPFS
 - Pixel perfect design
 - File Uploads
+- Modals
 - Search/Filter functionalities
 - Dynamic Routing etc
 
