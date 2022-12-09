@@ -178,7 +178,16 @@ npm run dev or yarn run dev
 ```
 
 
+
+
+
+
+
+
 IMAGES;
 1. When Payment is Succesful.(When Buying a listed nFTs, after buying, it reflects in the "my nfts" PAGE)
 ![wavy-hills vercel app_nft-details_price=0 097 tokenId=7 seller=0x2487AdEAa85d813786A876a482A88988DD4A193F owner=0x281921AA823325D606377edE0b5837b7F967FD93 image=https%3A%2F%2Fmy-music-nft infura-ipfs io%2Fipfs%2FQmShXRHM8VeXdmMBmkyvL8SeJKkp](https://user-images.githubusercontent.com/64787288/206811585-ce40511d-770d-475c-b73f-446f1cf89c9d.png)
 
+2. When Trying to Create
+
+![wavy-hills vercel app_create-nft](https://user-images.githubusercontent.com/64787288/206813040-b1618d56-719e-4b4f-b88d-70387e8ae60a.png)
