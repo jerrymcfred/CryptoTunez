@@ -75,6 +75,7 @@ GET TEST TOKENS HERE https://faucet.polygon.technology/
 - Seamless Fetching of data from IPFS
 - Pixel perfect design
 - File Uploads
+- Loaders/Loading Component
 - Modals
 - Search/Filter functionalities
 - Dynamic Routing etc
