@@ -191,3 +191,8 @@ IMAGES;
 2. When Trying to Create
 
 ![wavy-hills vercel app_create-nft](https://user-images.githubusercontent.com/64787288/206813040-b1618d56-719e-4b4f-b88d-70387e8ae60a.png)
+
+
+3. The Homepage/Explore NFTS PAGE
+
+![wavy-hills vercel app_create-nft (1)](https://user-images.githubusercontent.com/64787288/206813207-81ffe9a6-8fc4-4a09-8624-3a1d6d327314.png)
